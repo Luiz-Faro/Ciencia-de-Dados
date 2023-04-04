@@ -13,8 +13,10 @@ Além disso, acrescentei também os exercícios que me ajudaram adesenvolver ess
 
 ### Exercícios
 
-Alguns Exercícios que tenho praticado.
+Alguns exercícios que me ajudaram nessa jornada.
 
-* 
+* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Testar_Clustering.ipynb
+* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Regress%C3%A3o_com_ML.ipynb
+* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Estruturas_da_Linguagem_Python.ipynb
 
 

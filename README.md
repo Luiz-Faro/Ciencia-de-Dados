@@ -7,7 +7,7 @@ Os projetos são aplicações dos mais variados temas, que atravessam os grandes
 
 Muita mão na massa e muita análise, sempre trabalhando com base no ciclo do Crisp DM (Entendimento do Negócio, Entendimento dos Dados, Preparação dos Dados, Modelagem, Avaliação e Deploy). 
 
-Além disso, acrescentei também os exercícios que me ajudaram adesenvolver esses projetos.    
+Além disso, acrescentei também os exercícios que me ajudaram a desenvolver esses projetos.    
 
 ## Projetos
 

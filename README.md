@@ -18,16 +18,5 @@ Além disso, acrescentei também os exercícios que me ajudaram a desenvolver es
 * [Previsão de demanda de cerveja em São Paulo utilizando Regressão Múltipla](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Forecast_Consumo_de_Cerveja.ipynb)
 * [Previsão de preço de automóveis ultilizando Regressão Simples](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Regress%C3%A3o_Linear_Categorica(Price_Car).ipynb)
 
-### Exercícios
-
-Alguns exercícios que me ajudaram nessa jornada.
-
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clustering_Hierarquico_na_Pratica(Iris_df).ipynb
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Testar_Clustering.ipynb
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Modelagem_e_Tuning.ipynb
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/exercio_de_classifica%C3%A7%C3%A3o.py
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Estat%C3%ADstica_com_Python.ipynb
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Regress%C3%A3o_com_ML.ipynb
-* https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Estruturas_da_Linguagem_Python.ipynb
 
 

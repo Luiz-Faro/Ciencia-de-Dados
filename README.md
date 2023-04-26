@@ -19,12 +19,12 @@ A lot of hands-on work and a lot of analysis, always working based on the Crisp 
 
 ## Projetos
 
-* [Clusterizando clientes de um banco com modelo não supervisionado K-means](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clusterizando_Clientes_de_Cr%C3%A9dito_com_K_means.ipynb)
+* [Clusterizando clientes de um banco com modelo não supervisionado K-means]()
 * [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)  
-* [Escolhendo o melhor modelo para prever a demanda do Walmart](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Previsao_de_Vendas_Wallmart(Weakly_Sales).ipynb)
-* [Selecionando tipos de cultura para solos utilizando o Classificador Random Forest (Tunado)](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Selecionando_Culturas_Para_Solo(Random_Forest).ipynb)
-* [Previsão de demanda de cerveja em São Paulo utilizando Regressão Múltipla](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Forecast_Consumo_de_Cerveja.ipynb)
-* [Previsão de preço de automóveis ultilizando Regressão Simples](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Regress%C3%A3o_Linear_Categorica(Price_Car).ipynb)
+* [Escolhendo o melhor modelo para prever a demanda do Walmart])
+* [Selecionando tipos de cultura para solos utilizando o Classificador Random Forest (Tunado)]()
+* [Previsão de demanda de cerveja em São Paulo utilizando Regressão Múltipla]()
+* [Previsão de preço de automóveis ultilizando Regressão Simples]()
 
 
 

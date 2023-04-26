@@ -19,6 +19,7 @@ A lot of hands-on work and a lot of analysis, always working based on the Crisp 
 
 ## Projetos
 
+* * []()
 * [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)  
 
 

@@ -7,8 +7,6 @@ Os projetos são aplicações dos mais variados temas, que atravessam os grandes
 
 Muita mão na massa e muita análise, sempre trabalhando com base no ciclo do Crisp DM (Entendimento do Negócio, Entendimento dos Dados, Preparação dos Dados, Modelagem, Avaliação e Deploy). 
 
-Além disso, acrescentei também os exercícios que me ajudaram a desenvolver esses projetos.    
-
 ## Projetos
 
 * [Clusterizando clientes de um banco com modelo não supervisionado K-means](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clusterizando_Clientes_de_Cr%C3%A9dito_com_K_means.ipynb)

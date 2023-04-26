@@ -21,7 +21,7 @@ A lot of hands-on work and a lot of analysis, always working based on the Crisp 
 
 * [Clusterizando clientes de um banco com modelo não supervisionado K-means]()
 * [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)  
-* [Escolhendo o melhor modelo para prever a demanda do Walmart])
+* [Escolhendo o melhor modelo para prever a demanda do Walmart]()
 * [Selecionando tipos de cultura para solos utilizando o Classificador Random Forest (Tunado)]()
 * [Previsão de demanda de cerveja em São Paulo utilizando Regressão Múltipla]()
 * [Previsão de preço de automóveis ultilizando Regressão Simples]()

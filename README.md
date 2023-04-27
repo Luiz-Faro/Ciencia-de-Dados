@@ -20,7 +20,8 @@ A lot of hands-on work and a lot of analysis, always working based on the Crisp 
 ## Projetos
 
 * [Clusterizando clientes do banco com modelo não supervisionado K means](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Clustering_Kmeans-checkpoint.ipynb)
-* [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)  
+* [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)
+* [Selecionando a melhor cultura para um determinado tipo de solo com o classificador Random Forest](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Selecionando%20Culturas%20para%20solo%20com%20o%20classificador%20Random%20Forest%20(1).ipynb)
 
 
 

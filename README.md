@@ -23,6 +23,7 @@ A lot of hands-on work and a lot of analysis, always working based on the Crisp 
 * [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)
 * [Selecionando a melhor cultura para um determinado tipo de solo com o classificador Random Forest](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Selecionando%20Culturas%20para%20solo%20com%20o%20classificador%20Random%20Forest%20(1).ipynb)
 * [Selcionando o melhor regressor para prever a curva de vendas do Wallmart](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Regressao%20Wallmart%20(Weakley%20Store%20Sales)%20(1).ipynb)
+* [Prevendo o consumo de cerveja na cidade de são paulo com regressão](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Forecast%20consumo%20de%20cerveja%20em%20SP%20(1).ipynb)   
 
 
 

@@ -27,7 +27,10 @@ A lot of hands-on work and a lot of analysis, always working based on the Crisp 
   
 * [Desenvolvendo um classificador para escolha de filmes com técnicas de filtros para usuários](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Classificador_de_filmes_com_tecnicas_de_filtros_para_usuarios.ipynb)
 > Developing a classifier for choosing movies with filter techniques for users
-  
+
+* [Análise de Dados com Support Vector Machines(SVM)](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/SVM_com_Scikit_learn_Iris_e_Breast_Cancer_Datasets.ipynb)
+> Data Analysis with Support Vector Machines(SVM)
+ 
 * [Selecionando a melhor cultura para um determinado tipo de solo com o classificador Random Forest](https://github.com/Luiz-Faro/Projetos-Data-Science/blob/main/Selecionando%20Culturas%20para%20solo%20com%20o%20classificador%20Random%20Forest%20(1).ipynb)
 > Selecting the best crop for a given soil type with the Random Forest classifier
   
